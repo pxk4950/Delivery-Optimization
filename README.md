@@ -25,9 +25,5 @@ This project is currently in progress.
 - Develop route optimization algorithms 
 - Evaluate system performance on real-world datasets  
 
-- `data/` – datasets used for analysis (if applicable)  
-- `notebooks/` – Jupyter notebooks for experimentation  
-- `src/` – core implementation (if added later)  
-
 ## Author
 Prakriti Kattel
